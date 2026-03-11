@@ -82,7 +82,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 For any queries or suggestions, please reach out to:
 - Email: [githubharpreet@gmail.com]
-- Project Link: [https://github.com/dpsharpreet/HackIndia-Spark-5-2025-The-Prompt-Pirates]
+- Project Link: [https://github.com/cyberharpreet/HackIndia-Spark-5-2025-The-Prompt-Pirates]
 
 ## 👥 Team
 - [Harpreet Singh] - Project Lead
@@ -90,5 +90,6 @@ For any queries or suggestions, please reach out to:
 - [Ishant Sharma] - Designer
 
 ---
+
 
 Made with ❤️ for Chitkara University 
